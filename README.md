@@ -9,7 +9,9 @@ Chinese-News-Classification-Standard-and-Code(CCNC)-Document.pdf -- The news top
 TopicCategoryName-CCNCcode-and-article-distribution.txt -- The top level topic categories with CCNC code, and article distribution.
 
 data-sample.csv -- This file contains some sample articles and their metedata. 
+
 The metedata fields are Tab-seperated, and each line is one article. Each article has the following fields (also described in file Article-metedata-field-description.txt): 
+
     Channel - channel name the article is obtained from
     
     Source - the publisher of the article
@@ -32,4 +34,4 @@ The metedata fields are Tab-seperated, and each line is one article. Each articl
     
     Full_text - full text of the article
 
-The dataset is too large to be placed here. We will provide a link here after finding an appropriate place to hold it.
+The whole dataset is too large to be placed here. We will provide a link here after having an appropriate place to hold it.
