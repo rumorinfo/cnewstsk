@@ -1,4 +1,4 @@
-# cnewstsk
+# CNewsTSK
 
 Article-metedata-field-description.txt -- description of the fields used in data-sample.txt
 
